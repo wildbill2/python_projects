@@ -1,0 +1,6 @@
+In Python you can create variables.
+In Python you can perform arithmetic.
+In Python you can create functions.
+In Python you can create classes.
+In Python you can use while loops.
+In Python you can use IF statements.
